@@ -22,4 +22,4 @@ Toute contribution est la bienvenue. Veuillez créer des pull requests ou ouvrir
 
 ### Licence
 
-Ce programme est sous licence APACHE 2.0. Pour plus d'informations, consultez le fichier LICENSE.
+Ce programme est sous licence APACHE 2.0. Pour plus d'informations, consultez le fichier LICENSE
