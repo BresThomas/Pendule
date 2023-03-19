@@ -1,0 +1,25 @@
+/* Ajout d'une couleur de fond*/
+body {
+    background-color: #E7DECD;
+}
+
+/* Positionnement du bouton on/off en haut à gauche */
+#btn-on-off {
+position: absolute;
+top: 10px;
+left: 10px;
+}
+
+/* Positionnement du bouton lancer le programme en dessous */
+#btn-start {
+position: absolute;
+top: 50px;
+left: 10px;
+}
+
+/* Positionnement du texte*/
+#energie_pendule {
+position: absolute;
+bottom: 25px;
+left: 10px;
+}
