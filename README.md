@@ -1,5 +1,7 @@
 # Pendule
 
+![pendule](https://user-images.githubusercontent.com/59121834/226168545-c128f6c1-94e2-409a-bd6c-eb83fd0d791d.gif)
+
 ### Description
 
 Ce programme simule le mouvement d'un pendule simple en utilisant la méthode de Euler pour résoudre l'équation différentielle qui régit le mouvement.
